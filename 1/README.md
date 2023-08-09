@@ -18,15 +18,12 @@
     - [Poem 15](/15)
     - [Poem 16](/16)
     
-#  Prose Poem, Thomas Alva Edison, ????
+#  Prose Poem, Thomas Alva Edison, 1881
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80% 
+.ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=80% 
 
-**REPLACE MEDIA ITEM!
-**
 
-Doc. 2116 Prose Poem [Spring 1881?2]
-[--------------------------------------]a
+a
 Boulevard St Antoine3 that damnable merchants of inhumanity
 Citenian4 wharfrats. Why Centenus5 dost run a line already
 greased from Sirus6 to Capella with angularity, whereonb
