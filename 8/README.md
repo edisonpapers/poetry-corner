@@ -18,7 +18,7 @@
     - [Poem 15](/15)
     - [Poem 16](/16)
 
-#  Poem/Song, Thomas Alva Edison, 1874
+#  Poem/Song, Madeleine Edison, 1931
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/X451AJ left width=80%
 
