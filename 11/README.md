@@ -25,7 +25,6 @@
 A yellow oasis in hell =<br>
 premeditated stupidity = A phrenological idol.<br>
 The sombre dream of the grey-eyed Corsican<br>
-A Brain so small that an animacuale went to view it with a compound Microscope<br>
-The wrestling of shadows, a square chunk of carrion with two green eyes held by threads of gossamer which floats at midnight in bleak old rural graveyards.<br>
+A Brain so small that an animacuale went to view it with a compound Microscope The wrestling of shadows, a square chunk of carrion with two green eyes held by threads of gossamer which floats at midnight in bleak old rural graveyards.<br>
 Three million miles beyond the limits of the universe where the anglels dare not go<br>
 There flies forever from nihil to nihil the foulest demon of the Cosmos.
