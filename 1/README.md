@@ -22,13 +22,7 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=80% 
 
-a Boulevard St Antoine3 that damnable merchants of inhumanity
-Citenian4 wharfrats. Why Centenus5 dost run a line already
-greased from Sirus6 to Capella with angularity, whereonb
-ten millionc devils slide down to the farthermost sag and
-piss into pendemonum Tell me winged soldier of Hellc oif in
-the farthermost ends of infinity warted demons with cavernous
-mouths spit saliva on the balls of [-----]d the firmament to
+a Boulevard St Antoine3 that damnable merchants of inhumanity Citenian4 wharfrats. Why Centenus5 dost run a line already greased from Sirus6 to Capella with angularity, whereonb ten millionc devils slide down to the farthermost sag and piss into pendemonum Tell me winged soldier of Hellc oif in the farthermost ends of infinity warted demons with cavernous mouths spit saliva on the balls of [-----]d the firmament to
 produce deluges, hast seen the Juif errant7 he mocks destru
 the angel of destruction, amuses himself by letting off fire
 works in powder mills. Citronella this damnd perfume on the
