@@ -18,7 +18,7 @@
     - [Poem 15](/15)
     - [Poem 16](/16)
 
-#  STAND IN MEDIA - TO BE REPLACED, Prose Poem, 1874
+Prose Poem, 1874
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
