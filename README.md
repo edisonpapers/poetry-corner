@@ -22,11 +22,11 @@ This site highlights poetry by and about Thomas Alva Edison through IIIF image v
 
 Read the Introduction 
 
-#### Prose Poem {href=1}
+#### Poem/Song {href=1}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
-Menlo Park, New Jersey, 12 July 1885
+Thomas Alva Edison, 1874
 
 #### Marion's Poem {href=2}
 
