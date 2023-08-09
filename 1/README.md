@@ -1,6 +1,6 @@
 # Poem/Song, Thomas Alva Edison, 1874
 
-.ve-media https://edisondigital.rutgers.edu/iiif/MA001 left
+.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left
 
 <div style="text-align: right"><h4>Thomas Albva Edison<br>1874</h4></div>
 
