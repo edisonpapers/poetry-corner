@@ -18,7 +18,7 @@
     - [Poem 15](/15)
     - [Poem 16](/16)
 
-#  Poem/Song, Thomas Alva Edison, 1874
+#  Poem/Song, 1878
 
-.ve-media https://edisondigital.rutgers.edu/iiif/Poem/Song, 1878 left width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/D7829ZDG Poem/Song, 1878 left width=80%
 
