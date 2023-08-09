@@ -20,11 +20,11 @@
 
 #  STAND IN MEDIA - TO BE REPLACED
 
-## Edison, Thomas Alva (1847-1931) Poem to Miss Jenkins, "What's the Social Tree"
+## Thomas Edison Signed and Handwritten Poem: 'Miss Quay'
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
-[Poem to Miss Jenkins](https://www.gilderlehrman.org/collection/glc0761603)
+[Miss Quay](https://www.rrauction.com/auctions/lot-detail/346214006410136-thomas-edison-signed-and-handwritten-poem-miss-quay)
 
 February 4th 1902
 Miss Jenkins
