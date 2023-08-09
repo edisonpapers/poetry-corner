@@ -22,3 +22,4 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
+[Evangeline - Edison's Favorite Book](https://www.google.com/books/edition/Evangeline/srPTAAAAMAAJ?hl=en&gbpv=0)
