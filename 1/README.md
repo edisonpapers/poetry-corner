@@ -24,7 +24,6 @@
 
 a Boulevard St Antoine3 that damnable merchants of inhumanity
 Citenian4 wharfrats. Why Centenus5 dost run a line already
-
 greased from Sirus6 to Capella with angularity, whereonb
 ten millionc devils slide down to the farthermost sag and
 piss into pendemonum Tell me winged soldier of Hellc oif in
