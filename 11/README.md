@@ -22,8 +22,7 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
-Prose Poem, 1874
-A yellow oasis in hell =
+Prose Poem, 1874 A yellow oasis in hell =
 premeditated stupidity = A phrenological2 idol.
 The sombre dream of the grey-eyed Corsican3
 A Brain so small that an animacuale went to view it with a
