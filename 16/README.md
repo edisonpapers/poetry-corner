@@ -20,5 +20,32 @@
 
 #  STAND IN MEDIA - TO BE REPLACED
 
+## Edison, Thomas Alva (1847-1931) Poem to Miss Jenkins, "What's the Social Tree"
+
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
+
+[Poem to Miss Jenkins](https://www.gilderlehrman.org/collection/glc0761603)
+
+February 4th 1902
+Miss Jenkins
+
+Whats the social tree
+And the dancing tree
+And the tree that is nearest the sea
+The dandiest tree
+And the kissable tree
+And the tree where ships may be
+Whats the tell tale tree
+And the traitors tree
+And the tree that is warmest clad
+The languishing tree
+The chronologist tree
+And the tree that makes one sad
+The most yielding tree
+The Egyptian plaque tree
+The tree that bears a curse
+The reddish brown tree
+The reddish blue tree
+and the tree like an Irish nurse
+
 
