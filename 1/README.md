@@ -22,7 +22,8 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80% 
 
-## REPLACE MEDIA ITEM!
+**REPLACE MEDIA ITEM!
+**
 
 Doc. 2116 Prose Poem [Spring 1881?2]
 [--------------------------------------]a
