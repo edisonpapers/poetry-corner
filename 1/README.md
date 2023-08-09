@@ -22,23 +22,10 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=80% 
 
-a Boulevard St Antoine3 that damnable merchants of inhumanity Citenian4 wharfrats. Why Centenus5 dost run a line already greased from Sirus6 to Capella with angularity, whereonb ten millionc devils slide down to the farthermost sag and piss into pendemonum Tell me winged soldier of Hellc oif in the farthermost ends of infinity warted demons with cavernous mouths spit saliva on the balls of [-----]d the firmament to
-produce deluges, hast seen the Juif errant7 he mocks destru
-the angel of destruction, amuses himself by letting off fire
-works in powder mills. Citronella this damnd perfume on the
-Vine Clad Hills of Andulusia8 wafted as from a garden filled
-with Red hat giraffes a Rain of Boullion Soup descended on
-the thirsty soil and the wells and [--]d snake holes puked from
-the miasmatic water from the richness of the rapast, prithee
-tells usb Centenus, we of the finite minds, if Vesuvius constipated
-from derangement of the terranianc kidneys will ever
-vomit up again to engulf the moreb Earthlice They tell me
-the milky way is formed of stars & planets so innumerable & its
-diameter so great that [iff ?]d if Adam was one and all the sands
-of the sea were cyphers they would not express a preceptible
-segment of the grand ring—
-Doth god have a pegasus & use the milky way as a hitching
-ring—
+a Boulevard St Antoine that damnable merchants of inhumanity Citenian wharfrats. Why Centenus dost run a line already greased from Sirus to Capella with angularity, whereonb ten millionc devils slide down to the farthermost sag and piss into pendemonum Tell me winged soldier of Hellc oif in the farthermost ends of infinity warted demons with cavernous mouths spit saliva on the balls of [-----]d the firmament to produce deluges, hast seen the Juif errant he mocks destru the angel of destruction, amuses himself by letting off fire works in powder mills. Citronella this damnd perfume on the
+Vine Clad Hills of Andulusia8 wafted as from a garden filled with Red hat giraffes a Rain of Boullion Soup descended on
+the thirsty soil and the wells and [--]d snake holes puked from the miasmatic water from the richness of the rapast, prithee tells usb Centenus, we of the finite minds, if Vesuvius constipated from derangement of the terranianc kidneys will ever vomit up again to engulf the moreb Earthlice They tell me the milky way is formed of stars & planets so innumerable & its diameter so great that [iff ?]d if Adam was one and all the sands of the sea were cyphers they would not express a preceptible segment of the grand ring— Doth god have a pegasus & use the milky way as a hitching ring—
+
 Whizzozririzing an asteroid has run plump into a favorite
 angel. This Crank lump of matter will be used for [---- ----
 -----]d water closets in Hadese two angels at a candy pull,
