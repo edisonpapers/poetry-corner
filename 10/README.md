@@ -18,7 +18,7 @@
     - [Poem 15](/15)
     - [Poem 16](/16)
 
-#  STAND IN MEDIA
+#  STAND IN MEDIA - TO BE REPLACED
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
