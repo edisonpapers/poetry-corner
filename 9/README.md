@@ -18,7 +18,7 @@
     - [Poem 15](/15)
     - [Poem 16](/16)
 
-#  Poem/Song, Thomas Alva Edison, 1874
+#  Phonogram from Horatio Nelson Powers to George Edward Gouraud, Thomas Alva Edison, June 16th, 1888
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/D8850ABQ1 left width=80%
 
