@@ -781,7 +781,7 @@ Sometimes in churchyards strayed, and gazed on the crosses and tombstones,
 Sat by some nameless grave, and thought that perhaps in its bosom
 He was already at rest, and she longed to slumber beside him.
 Sometimes a rumor, a hearsay, an inarticulate whisper,
-Came with its airy hand to point and beckon her forward.
+Came with its airy hand to point and beckon her forward. 
 Sometimes she spake with those who had seen her beloved and known him,
 But it was long ago, in some far-off place or forgotten.
 "Gabriel Lajeunesse!" they said; yes! we have seen him.
