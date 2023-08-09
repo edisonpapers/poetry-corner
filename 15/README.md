@@ -22,3 +22,4 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
+[Germ Plasm](https://auction.universityarchives.com/auction-lot/thomas-edison-autograph-note-re-germ-plasm-sh_E0B4B17897)
