@@ -22,5 +22,5 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
-[Congressional Record - Google Books](/https://www.google.com/books/edition/Congressional_Record/vb2XDONBndMC?hl=en&gbpv=1&dq=thomas+edison+poem&pg=PA4621&printsec=frontcover)
+[Congressional Record - Google Books](https://www.google.com/books/edition/Congressional_Record/vb2XDONBndMC?hl=en&gbpv=1&dq=thomas+edison+poem&pg=PA4621&printsec=frontcover)
 
