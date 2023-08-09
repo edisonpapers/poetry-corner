@@ -14,6 +14,6 @@
     
  # Poem/Song, Thomas Alva Edison, 1874
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left
+.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
 Awakened at 5:15 am. My eyes were embarassed by the sunbeams
