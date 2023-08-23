@@ -7,7 +7,7 @@
     - [The Tree Puzzle](/the-tree-puzzle)
     - [Evangeline](/evangeline)
     - [Sheet Music](/sheet-music)
-    - [Other Works](/other-works)
+    - [Other Works]{href=other-works}
 
 This site highlights poetry by and about Thomas Alva Edison through IIIF image viewers, transcriptions and annotations. It is a collaboration between Edison Papers Director Paul Israel, Nicole Wines and graduate student Erin Mustard, who help the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the poems and each of the poems available in this exhibit..
 
