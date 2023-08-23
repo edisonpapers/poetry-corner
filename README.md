@@ -1,8 +1,11 @@
-.ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/MA036 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
+.ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
     - [Home](/)
     - [Introduction](/introduction)
-    - [Prose Poem](/1)
-    - [Marion's Poem](/2)
+    - [Poems by Edison](/poems-by-edison)
+    - [Poems by Edison's Family](/family-poems)
+    - [Poems About Edison](/poems-about-edison)
+    - [Sheet Music](/sheet-music)
+   
     - [Poem 3](/3)
     - [Poem 4](/4)
     - [Poem 5](/5)
@@ -22,25 +25,25 @@ This site highlights poetry by and about Thomas Alva Edison through IIIF image v
 
 Read the Introduction 
 
-#### Poem/Song {href=1}
+#### Poem's by Edison {href=poems-by-edison}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
 Thomas Alva Edison, 1874
 
-#### Marion's Poem {href=2}
+#### Poems by Edison's Family {href=family-poems}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
 Menlo Park, New Jersey, 13 July 1885
 
-#### Poem 3 {href=3}
+#### Poems by Others {href=poems-by-others}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
 Woodside Villa, Boston Harbor, 14 July, 1885
 
-#### Poem 4 {href=4}
+#### Sheet Music {href=sheet-music}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
