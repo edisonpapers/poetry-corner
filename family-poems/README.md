@@ -12,4 +12,6 @@
 
 .ve-media https://edisondigital.rutgers.edu/iiif/X401HE left width=80%
 
+##  Poem/Song, Madeleine Edison, February 1910
 
+.ve-media https://edisondigital.rutgers.edu/iiif/X400BAD left width=80%
