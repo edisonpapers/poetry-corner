@@ -28,9 +28,15 @@ In the most charming nook in Paradise amid surroundings more beautiful than areb
 A yellow oasis in hell =<br>
 premeditated stupidity = A phrenological idol.<br>
 The sombre dream of the grey-eyed Corsican<br>
-A Brain so small that an animacuale went to view it with a compound Microscope The wrestling of shadows, a square chunk of carrion with two green eyes held by threads of gossamer <br>which floats at midnight in bleak old rural graveyards.<br>
-Three million miles beyond the limits of the universe where the anglels dare not go<br>
-There flies forever from nihil to nihil the foulest demon of the Cosmos.
+A Brain so small that an animacuale went to view it<br>
+with a compound Microscope The wrestling of<br>
+shadows, a square chunk of carrion with two green<br>
+eyes held by threads of gossamer which floats at <br>
+midnight in bleak old rural graveyards.<br>
+Three million miles beyond the limits of the<br>
+universe where the anglels dare not go<br>
+There flies forever from nihil to nihil the foulest<br>
+demon of the Cosmos.
 
 ## Ms. Quay
 
