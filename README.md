@@ -4,16 +4,9 @@
     - [Poems by Edison](/poems-by-edison)
     - [Poems by Edison's Family](/family-poems)
     - [Poems About Edison](/poems-about-edison)
+    - [Evangeline](/evangeline)
     - [Sheet Music](/sheet-music)
-   
-    - [Poem 3](/3)
-    - [Poem 4](/4)
-    - [Poem 5](/5)
-    - [Poem 6](/6)
-    - [Poem 7](/7)
-    - [Poem 8](/8)
-    - [Poem 9](/9)
-    - [Poem 10](/10)
+    - [Other Works](/other-works)
 
 This site highlights poetry by and about Thomas Alva Edison through IIIF image viewers, transcriptions and annotations. It is a collaboration between Edison Papers Director Paul Israel, Nicole Wines and graduate student Erin Mustard, who help the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the poems and each of the poems available in this exhibit..
 
@@ -25,62 +18,38 @@ This site highlights poetry by and about Thomas Alva Edison through IIIF image v
 
 Read the Introduction 
 
-#### Poem's by Edison {href=poems-by-edison}
+#### Poems by Edison {href=poems-by-edison}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
-Thomas Alva Edison, 1874
+Read Edison's Poem
 
 #### Poems by Edison's Family {href=family-poems}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
-Menlo Park, New Jersey, 13 July 1885
+Madeleine, Marion and Charles Edison
 
-#### Poems by Others {href=poems-by-others}
+#### Poems About Edison {href=poems-about-Edison}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
-Woodside Villa, Boston Harbor, 14 July, 1885
+Read poetry inspired by and about Thomas Edison
+
+#### Evangeline {href=evangeline}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+
+Edison's Favorite Book
 
 #### Sheet Music {href=sheet-music}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
 
-Woodside Villa, Boston Harbor, 15 July, 1885
+Sheet Music Collections
 
-#### Poem 5 {href=5}
+#### Other {href=other}
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_05.png)
 
-Woodside Villa, Boston Harbor, 16 July, 1885
-
-#### Poem 6 {href=6}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_06.png)
-
-Woodside Villa, Boston Harbor, 17 July, 1885
-
-#### Poem 7 {href=7}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_07.png)
-
-Woodside Villa, Boston Harbor, 18 July, 1885
-
-#### Poem 8 {href=8}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_08.png)
-
-Woodside Villa, Boston Harbor, 19 July, 1885
-
-#### Poem 9 {href=9}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_09.png)
-
-Woodside Villa, Boston Harbor, 20 July, 1885
-
-#### Poem 10 {href=10}
-
-![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_10.png)
-
-Woodside Villa, Boston Harbor, 21 July, 1885
+Other miscellaneous material
