@@ -36,6 +36,6 @@ capable of enjoying that which DeQuincy,10c had he a brain 300
 miles in diameter full of opium would never imagine—
 
 
-#  Poem/Song, Thomas Alva Edison, 1874
+##  Poem/Song, Thomas Alva Edison, 1874
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
