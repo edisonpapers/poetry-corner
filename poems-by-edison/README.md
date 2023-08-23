@@ -70,6 +70,8 @@ PUZZLING POEM FOR A YOUNG FRIEND EDISON, THOMAS A. Autograph Manuscript dated an
 
 [Miss Quay](https://www.rrauction.com/auctions/lot-detail/346214006410136-thomas-edison-signed-and-handwritten-poem-miss-quay)
 
+[Poem to Miss Jenkins](https://www.gilderlehrman.org/collection/glc0761603)
+
 [Google Books Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gilderlehrman.org%2Fsites%2Fdefault%2Ffiles%2Fcollection-images-th%2FGLC07616.03_th.jpg&tbnid=n4ZDN2x-AnezuM&vet=12ahUKEwjAzNqSga2AAxXSBlkFHa5AD7QQMygMegUIARDfAQ..i&imgrefurl=https%3A%2F%2Fwww.gilderlehrman.org%2Fcollection%2Fglc0761603&docid=2yi1FO94RBHEVM&w=438&h=600&q=thomas%20edison%20poem&ved=2ahUKEwjAzNqSga2AAxXSBlkFHa5AD7QQMygMegUIARDfAQ) 
 
 February 4th 1902<br>
