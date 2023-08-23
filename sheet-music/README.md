@@ -4,6 +4,7 @@
     - [Poems by Edison](/poems-by-edison)
     - [Poems by Edison's Family](/family-poems)
     - [Poems About Edison](/poems-about-edison)
+    - [The Tree Puzzle](/the-tree-puzzle)
     - [Evangeline](/evangeline)
     - [Sheet Music](/sheet-music)
     - [Other Works](/other-works)
