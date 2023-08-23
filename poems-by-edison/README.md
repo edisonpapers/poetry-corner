@@ -1,5 +1,3 @@
-# Poems By Edison
-    
 .ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
     - [Home](/)
     - [Introduction](/introduction)
@@ -8,8 +6,9 @@
     - [Poems About Edison](/poems-about-edison)
     - [Sheet Music](/sheet-music)
    
-   
-#  Prose Poem, Thomas Alva Edison, 1881
+# Poems By Edison
+
+##  Prose Poem, Thomas Alva Edison, 1881
 
 .ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=80% 
 
