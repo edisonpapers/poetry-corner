@@ -28,7 +28,7 @@ Read Edison's Poems
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
 
-Madeleine, Marion and Charles Edison
+Poetry by Madeleine, Marion and Charles Edison
 
 #### Poems About Edison {href=poems-about-Edison}
 
