@@ -11,3 +11,4 @@
     
  # Introduction
 
+This is a placeholder page for an introduction to the Poetry Corner.
