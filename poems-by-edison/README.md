@@ -4,7 +4,9 @@
     - [Poems by Edison](/poems-by-edison)
     - [Poems by Edison's Family](/family-poems)
     - [Poems About Edison](/poems-about-edison)
+    - [Evangeline](/evangeline)
     - [Sheet Music](/sheet-music)
+    - [Other Works](/other-works)
    
 # Poems By Edison
 
