@@ -1,5 +1,5 @@
 .ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
-    - [Home](https://edisonpapers.github.io/poetry-corner/)
+    - [Home]()
     - [Introduction](introduction)
     - [Poems by Edison](poems-by-edison)
     - [Poems by Edison's Family](family-poems)
