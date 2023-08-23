@@ -1,12 +1,12 @@
 .ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
     - [Home](/)
-    - [Introduction](/introduction)
-    - [Poems by Edison](/poems-by-edison)
-    - [Poems by Edison's Family](/family-poems)
-    - [Poems About Edison](/poems-about-edison)
-    - [The Tree Puzzle](/the-tree-puzzle)
-    - [Evangeline](/evangeline)
-    - [Sheet Music](/sheet-music)
+    - [Introduction](introduction)
+    - [Poems by Edison](poems-by-edison)
+    - [Poems by Edison's Family](family-poems)
+    - [Poems About Edison](poems-about-edison)
+    - [The Tree Puzzle](the-tree-puzzle)
+    - [Evangeline](evangeline)
+    - [Sheet Music](sheet-music)
     - [Other Works](other)
 
 This site highlights poetry by and about Thomas Alva Edison through IIIF image viewers, transcriptions and annotations. It is a collaboration between Edison Papers Director Paul Israel, Nicole Wines and graduate student Erin Mustard, who help the project develop its digital and public humanities outreach. Click on the links below to read an Introduction to the poems and each of the poems available in this exhibit..
