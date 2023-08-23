@@ -39,3 +39,15 @@ miles in diameter full of opium would never imagine—
 ##  Poem/Song, Thomas Alva Edison, 1874
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
+
+## Prose Poem, 1874
+
+.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
+
+A yellow oasis in hell =
+premeditated stupidity = A phrenological idol.
+The sombre dream of the grey-eyed Corsican
+A Brain so small that an animacuale went to view it with a compound Microscope The wrestling of shadows, a square chunk of carrion with two green eyes held by threads of gossamer which floats at midnight in bleak old rural graveyards.
+Three million miles beyond the limits of the universe where the anglels dare not go
+There flies forever from nihil to nihil the foulest demon of the Cosmos.
+  
