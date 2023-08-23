@@ -26,7 +26,7 @@ Whizzozririzing an asteroid has run plump into a favorite angel. This Crank<br><
 
 lump of matter will be used for [-------------]d water closets in Hadese two angels at a candy pull, they streatch the viscous molasses from Vega to Acturus at every pull, flies as big as Japan buzzed around it.<br>
 
-A Bowery angel smoking a palm tree stubbed his toe on a comet,c and pimples came out on his toe nail as big as a mountains, he swore so much that God made eight new planets out of the conversation & peopled and fauna’dc & flora’dc them eccentrically The almighty has a vein of humor he made these planets & peopled them
+A Bowery angel smoking a palm tree stubbed his toe on a comet,c and pimples came out on his toe nail as big as a mountains, he swore so much that God made eight new planets out of the conversation & peopled and fauna’dc & flora’dc them eccentrically The almighty has a vein of humor he made these planets & peopled them<br><br><br>
 
 .ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=70% seq=4
 
