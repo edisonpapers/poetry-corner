@@ -4,6 +4,7 @@
     - [Poems by Edison](/poems-by-edison)
     - [Poems by Edison's Family](/family-poems)
     - [Poems About Edison](/poems-about-edison)
+    - [The Tree Puzzle](/the-tree-puzzle)
     - [Evangeline](/evangeline)
     - [Sheet Music](/sheet-music)
     - [Other Works](/other-works)
@@ -35,6 +36,12 @@ Poetry by Madeleine, Marion and Charles Edison
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
 
 Read poetry inspired by and about Thomas Edison
+
+#### The Tree Puzzle {href=the-tree-puzzle}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+
+A social game
 
 #### Evangeline {href=evangeline}
 
