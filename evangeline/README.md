@@ -1,24 +1,13 @@
-# Evangeline
-
-.ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/MA036 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
+.ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
     - [Home](/)
     - [Introduction](/introduction)
-    - [Prose Poem](/1)
-    - [Marion's Poem](/2)
-    - [Poem 3](/3)
-    - [Poem 4](/4)
-    - [Poem 5](/5)
-    - [Poem 6](/6)
-    - [Poem 7](/7)
-    - [Poem 8](/8)
-    - [Poem 9](/9)
-    - [Poem 10](/10)
-    - [Poem 11](/11)
-    - [Poem 12](/12)
-    - [Poem 13](/13)
-    - [Poem 14](/14)
-    - [Poem 15](/15)
-    - [Poem 16](/16)
+    - [Poems by Edison](/poems-by-edison)
+    - [Poems by Edison's Family](/family-poems)
+    - [Poems About Edison](/poems-about-edison)
+    - [The Tree Puzzle](/the-tree-puzzle)
+    - [Evangeline](/evangeline)
+    - [Sheet Music](/sheet-music)
+    - [Other Works](/other-works)
 
 #  STAND IN MEDIA - TO BE REPLACED
 
