@@ -23,7 +23,7 @@ In the most charming nook in Paradise amid surroundings more beautiful than areb
 
 ## Prose Poem, Thomas Alva Edison, 1874
 
-.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
+.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=70%
 
 A yellow oasis in hell =<br>
 premeditated stupidity = A phrenological idol.<br>
