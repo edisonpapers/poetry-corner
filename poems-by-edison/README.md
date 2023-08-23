@@ -30,7 +30,7 @@ A Bowery angel smoking a palm tree stubbed his toe on a comet,c and pimples came
 
 .ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=70% seq=4
 
-to give amusements to beings on the rest of the celestial plantation. The men were 800 miles long & 1/4 inch thick they slept on telegraph poles, and animals with bodies as big as a pea with 900c eyes each as big as a saucer lived on these long men by catching them by the feet & sucking them in like maccaronif<br><br>
+to give amusements to beings on the rest of the celestial plantation. The men were 800 miles long & 1/4 inch thick they slept on telegraph poles, and animals with bodies as big as a pea with 900c eyes each as big as a saucer lived on these long men by catching them by the feet & sucking them in like maccaronif<br>
 
 In the most charming nook in Paradise amid surroundings more beautiful than areb imaginatively conceivable, in a palace dwell Gabreal & Evangeline,9 each endowed with a capacity capable of enjoying that which DeQuincy,10c had he a brain 300 miles in diameter full of opium would never imagine—
 
