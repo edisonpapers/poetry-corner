@@ -20,7 +20,7 @@ a Boulevard St Antoine that damnable merchants of inhumanity Citenian wharfrats.
 
 Soup descended on the thirsty soil and the wells and [--]d snake holes puked from the miasmatic water from the richness of the rapast, prithee tells usb Centenus, we of the finite minds, if Vesuvius constipated from derangement of the terranianc kidneys will ever vomit up again to engulf the moreb Earthlice They tell me the milky way is formed of stars & planets so innumerable & its diameter so great that [iff ?]d if Adam was one and all the sands of the sea were cyphers they would not express a preceptible segment of the grand ring— Doth god have a pegasus & use the milky way as a hitching ring - <br>
 
-Whizzozririzing an asteroid has run plump into a favorite angel. This Crank<br><br>
+Whizzozririzing an asteroid has run plump into a favorite angel. This Crank<br>
 
 .ve-media https://edisondigital.rutgers.edu/iiif/N306103 left width=70% seq=3
 
