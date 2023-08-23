@@ -22,7 +22,7 @@ Read the Introduction
 
 ![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
 
-Read Edison's Poem
+Read Edison's Poems
 
 #### Poems by Edison's Family {href=family-poems}
 
