@@ -1,4 +1,4 @@
-# Poems About and Inspired by Edison
+# Poems About by Edison
 
 ##  Poem/Song, 1878
 
