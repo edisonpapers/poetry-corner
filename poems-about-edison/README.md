@@ -52,4 +52,8 @@ of your modest grave. We felt you<br>
 speak to us as the leaves moved in their trees and the orange tongues<br>
 of tiger lillies described the day.<br>
 The casual blossoms opening above<br>
-a synaptic tangle of roots and bulbs.
+a synaptic tangle of roots and bulbs.<br>
+
+## OTHER
+
+[Congressional Record - Google Books](https://www.google.com/books/edition/Congressional_Record/vb2XDONBndMC?hl=en&gbpv=1&dq=thomas+edison+poem&pg=PA4621&printsec=frontcover)
