@@ -25,16 +25,15 @@ In the most charming nook in Paradise amid surroundings more beautiful than areb
 
 .ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
-A yellow oasis in hell =
-premeditated stupidity = A phrenological idol.
-The sombre dream of the grey-eyed Corsican
-A Brain so small that an animacuale went to view it with a compound Microscope The wrestling of shadows, a square chunk of carrion with two green eyes held by threads of gossamer which floats at midnight in bleak old rural graveyards.
-Three million miles beyond the limits of the universe where the anglels dare not go
+A yellow oasis in hell =<br>
+premeditated stupidity = A phrenological idol.<br>
+The sombre dream of the grey-eyed Corsican<br>
+A Brain so small that an animacuale went to view it with a compound Microscope The wrestling <br>of shadows, a square chunk of carrion with two green eyes held by threads of gossamer <br>which floats at midnight in bleak old rural graveyards.<br>
+Three million miles beyond the limits of the universe where the anglels dare not go<br>
 There flies forever from nihil to nihil the foulest demon of the Cosmos.
 
 ## Ms. Quay
 
-"Whats the social tree / and the dancing tree / and the tree that is nearest the sea / The dandiest tree / and the kissable tree / and the tree where ships may be . . . ."
 This poem was published on several occasions with slight variations including a lengthy version in the May 10, 1890 issue of Good Housekeeping. Each line of the poem is a kind of puzzle: the answer to the first line is 'Pear' or 'Tea' (as in a pair are enough for society, and tea is often served at social events); the answer to the second line is 'Hop.'
 
 ABOUT: 
@@ -42,12 +41,6 @@ ABOUT:
 PUZZLING POEM FOR A YOUNG FRIEND EDISON, THOMAS A. Autograph Manuscript dated and Signed, version of a popular poem written for "Miss Quay" beginning "What's the social tree." 1 page, 8vo, board; small hole at upper right (not affecting text), faint scattered foxing. Np, 4 February 1902
 
 [LINK](https://catalogue.swanngalleries.com/Lots/auction-lot/EDISON-THOMAS-A-Autograph-Manuscript-dated-and-Signed-versio?saleno=2461&lotNo=49&refNo=735143)
-
-#  STAND IN MEDIA - TO BE REPLACED
-
-## Thomas Edison Signed and Handwritten Poem: 'Miss Quay'
-
-.ve-media https://edisondigital.rutgers.edu/iiif/NM003015 left width=80%
 
 [Miss Quay](https://www.rrauction.com/auctions/lot-detail/346214006410136-thomas-edison-signed-and-handwritten-poem-miss-quay)
 
