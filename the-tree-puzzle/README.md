@@ -1,15 +1,18 @@
 .ve-header "Edison's Poetry Corner" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
-    - [Home]()
-    - [Introduction](introduction)
-    - [Poems by Edison](poems-by-edison)
-    - [Poems by Edison's Family](family-poems)
-    - [Poems About Edison](poems-about-edison)
-    - [The Tree Puzzle](the-tree-puzzle)
-    - [Evangeline](evangeline)
-    - [Sheet Music](sheet-music)
-    - [Other Works](other)
+    - [Home](/)
+    - [Introduction](/introduction)
+    - [Poems by Edison](/poems-by-edison)
+    - [Poems by Edison's Family](/family-poems)
+    - [Poems About Edison](/poems-about-edison)
+    - [The Tree Puzzle](/the-tree-puzzle)
+    - [Evangeline](/evangeline)
+    - [Sheet Music](/sheet-music)
+    - [Other Works](/other)
    
 # The Tree Puzzle
+
+This was a game that periodically shows up in the newspapers. The earliest reference is 1833. Likely there was a house gathering on the evening of February 4th, 1902, and Edison wrote out the words for some of the guests, which explains why there are two different handwritten copies from the same day.<br>
+
 
 This poem was published on several occasions with slight variations including a lengthy version in the May 10, 1890 issue of Good Housekeeping. Each line of the poem is a kind of puzzle: the answer to the first line is 'Pear' or 'Tea' (as in a pair are enough for society, and tea is often served at social events); the answer to the second line is 'Hop.'
 
