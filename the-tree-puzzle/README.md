@@ -16,6 +16,8 @@ This was a game that periodically shows up in the newspapers. The earliest refer
 
 This poem was published on several occasions with slight variations including a lengthy version in the May 10, 1890 issue of Good Housekeeping. Each line of the poem is a kind of puzzle: the answer to the first line is 'Pear' or 'Tea' (as in a pair are enough for society, and tea is often served at social events); the answer to the second line is 'Hop.'
 
+
+
 ABOUT: 
 
 PUZZLING POEM FOR A YOUNG FRIEND EDISON, THOMAS A. Autograph Manuscript dated and Signed, version of a popular poem written for "Miss Quay" beginning "What's the social tree." 1 page, 8vo, board; small hole at upper right (not affecting text), faint scattered foxing. Np, 4 February 1902
