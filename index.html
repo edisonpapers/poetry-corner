@@ -101,7 +101,7 @@
           let e
           if (srcEl.localName  === 'link') {
             e = document.createElement('link')
-            e.href = srcEl.href
+            e.href = srcEl.href.replace(/beta\.52/, 'beta.42')
             e.rel = srcEl.rel
             e.type = 'text/css'
             e.addEventListener('load', callback)
@@ -114,7 +114,7 @@
           } else if (srcEl.localName  === 'script') {
             e = document.createElement('script')
             if (srcEl.src) {
-              e.src = srcEl.src
+              e.src = srcEl.src.replace(/beta\.52/, 'beta.42')
               if (srcEl.type) e.type = srcEl.type
               e.addEventListener('load', callback)
             } else {
